@@ -1,4 +1,4 @@
-# Project 0204
+# robotic-demo
 
 Embodied grasping policy skeleton with multi-RGBD input and discrete actions.
 
