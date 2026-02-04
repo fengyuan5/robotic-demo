@@ -1,0 +1,158 @@
+{
+  "actions": [
+    {
+      "id": 0,
+      "name": "FWD",
+      "group": "base",
+      "delta": 0.0,
+      "unit": ""
+    },
+    {
+      "id": 1,
+      "name": "LEFT",
+      "group": "base",
+      "delta": 0.0,
+      "unit": ""
+    },
+    {
+      "id": 2,
+      "name": "RIGHT",
+      "group": "base",
+      "delta": 0.0,
+      "unit": ""
+    },
+    {
+      "id": 3,
+      "name": "STOP",
+      "group": "base",
+      "delta": 0.0,
+      "unit": ""
+    },
+    {
+      "id": 4,
+      "name": "ALIGN_LEFT",
+      "group": "align",
+      "delta": 0.0,
+      "unit": ""
+    },
+    {
+      "id": 5,
+      "name": "ALIGN_RIGHT",
+      "group": "align",
+      "delta": 0.0,
+      "unit": ""
+    },
+    {
+      "id": 6,
+      "name": "ALIGN_FORWARD",
+      "group": "align",
+      "delta": 0.0,
+      "unit": ""
+    },
+    {
+      "id": 7,
+      "name": "X+",
+      "group": "arm_pos",
+      "delta": 0.015,
+      "unit": "m"
+    },
+    {
+      "id": 8,
+      "name": "X-",
+      "group": "arm_pos",
+      "delta": -0.015,
+      "unit": "m"
+    },
+    {
+      "id": 9,
+      "name": "Y+",
+      "group": "arm_pos",
+      "delta": 0.015,
+      "unit": "m"
+    },
+    {
+      "id": 10,
+      "name": "Y-",
+      "group": "arm_pos",
+      "delta": -0.015,
+      "unit": "m"
+    },
+    {
+      "id": 11,
+      "name": "Z+",
+      "group": "arm_pos",
+      "delta": 0.015,
+      "unit": "m"
+    },
+    {
+      "id": 12,
+      "name": "Z-",
+      "group": "arm_pos",
+      "delta": -0.015,
+      "unit": "m"
+    },
+    {
+      "id": 13,
+      "name": "ROLL+",
+      "group": "arm_rot",
+      "delta": 3.0,
+      "unit": "deg"
+    },
+    {
+      "id": 14,
+      "name": "ROLL-",
+      "group": "arm_rot",
+      "delta": -3.0,
+      "unit": "deg"
+    },
+    {
+      "id": 15,
+      "name": "PITCH+",
+      "group": "arm_rot",
+      "delta": 3.0,
+      "unit": "deg"
+    },
+    {
+      "id": 16,
+      "name": "PITCH-",
+      "group": "arm_rot",
+      "delta": -3.0,
+      "unit": "deg"
+    },
+    {
+      "id": 17,
+      "name": "YAW+",
+      "group": "arm_rot",
+      "delta": 3.0,
+      "unit": "deg"
+    },
+    {
+      "id": 18,
+      "name": "YAW-",
+      "group": "arm_rot",
+      "delta": -3.0,
+      "unit": "deg"
+    },
+    {
+      "id": 19,
+      "name": "GRIP_OPEN",
+      "group": "gripper",
+      "delta": 0.0,
+      "unit": ""
+    },
+    {
+      "id": 20,
+      "name": "GRIP_CLOSE",
+      "group": "gripper",
+      "delta": 0.0,
+      "unit": ""
+    },
+    {
+      "id": 21,
+      "name": "BACKOFF",
+      "group": "recovery",
+      "delta": 0.0,
+      "unit": ""
+    }
+  ]
+}

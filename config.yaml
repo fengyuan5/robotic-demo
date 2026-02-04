@@ -1,0 +1,16 @@
+version: 1
+cameras:
+  count: 4
+  frames: 3
+  height: 224
+  width: 224
+actions:
+  step_pos_m: 0.015
+  step_rot_deg: 3.0
+  backoff_pos_m: 0.015
+  backoff_z_m: 0.015
+model:
+  actions: 22
+training:
+  batch: 16
+  epochs: 20
